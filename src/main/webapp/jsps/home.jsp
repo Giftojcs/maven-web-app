@@ -21,7 +21,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		ACADA Learning, 
-		Alberta, Calgary, Canada
+		Ikeja, Lagos, Nigeria
 		+1 587 574 2233,
 		info@acadalearning.com
 		<br>
