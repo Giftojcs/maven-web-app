@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://3.86.246.246:8081/repository/CIBC-APPSNAPSHOT/</url>
+	      <url>http://3.86.246.246:8081/repository/CIBC-APPS-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
