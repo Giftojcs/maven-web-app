@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://3.86.246.246:8081/repository/CIBC-APP/</url>
+	      <url>http://44.204.145.244:8081/repository/CIBC-APP/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://3.86.246.246:8081/repository/CIBC-APPS-SNAPSHOT/</url>
+	      <url>http://44.204.145.244:8081/repository/CIBC-APPS-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
